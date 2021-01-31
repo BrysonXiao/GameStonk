@@ -31,7 +31,7 @@ each_frame_increase = 4
 # Stock price
 stock_price = 10
 stocks_owned = 0
-cash = 1000
+cash = 100000
 
 # Slow down increase
 stock_inc_counter = 0
